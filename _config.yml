@@ -5,6 +5,10 @@ picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://alperenbozkurt.github.io/JBlog
 
+author:         Chen Xi
+email:          chen_xi01@126.com
+guthub:         ChenXi01
+
 
 # Jekyll
 permalink:      /:title/
