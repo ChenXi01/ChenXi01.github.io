@@ -1,23 +1,30 @@
-# PanelCV
+# JBlog Jekyll Theme
 
-This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
+**[JBlog](http://alperenbozkurt.net/JBlog)** is a simple jekyll theme.
 
-I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
+I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
 
-The theme would look like this 
+If you like this theme or using it, please give a **star** for motivation.
 
-![Demo](/images/demo.png)
+## Preview
 
+![Home Page](/assets/img/screenshot-home.png)    
+![Post Page](/assets/img/screenshot-post.png)
 
-# Installation
+See a [live version of JBlog](http://alperenbozkurt.net/JBlog) hosted on GitHub.
 
-- Fork the repository
-- Go to settings and set Github Pages source as master.
-- Your new site should be ready at https://username.github.io/PanelCV/
+## Getting Started
 
-Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
+To learn how to install and use this theme check out the [Setup Guide](http://alperenbozkurt.net/JBlog/JBlog-theme/) for more information or apply the following instructions.
 
+##Installation
 
-# Author
-
-- [Locky](https://github.com/junlulocky)
+- Fork the Repo
+- Edit _config.yml file.
+	- Edit url as **https**://yourusername.github.io 
+	- and others
+- Remove sample posts from _posts folder and add yours.
+- Edit index.md file in about folder.
+- Change repo name to YourUserName.github.io
+- Open "Github Pages" from settings page
+- Click the star icon at the top of this page ;)
