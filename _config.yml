@@ -34,7 +34,8 @@ facebook: Xi Chen
   #ad-slot:
 #bing-verify:
 github: ChenXi01
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:  ChenXi 
 #linkedin: username
 #xing: username
 #instagram: username
