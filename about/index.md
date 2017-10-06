@@ -19,4 +19,4 @@ If you like this theme or using it, please give a **star** for motivation.
 
 You want to **use it?**      
 
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+[Install JBlog](https://github.com/ChenXi01.github.io){: .btn .btn-info}

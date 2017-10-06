@@ -1,6 +1,6 @@
 # JBlog Jekyll Theme
 
-**[JBlog](http://alperenbozkurt.net/JBlog)** is a simple jekyll theme.
+**[JBlog](http://ChenXi01.github.io)** is a simple jekyll theme.
 
 I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
 
@@ -21,7 +21,7 @@ To learn how to install and use this theme check out the [Setup Guide](http://al
 
 - Fork the Repo
 - Edit _config.yml file.
-	- Edit url as **https**://yourusername.github.io 
+	- Edit url as **https**://yourusername.github.io
 	- and others
 - Remove sample posts from _posts folder and add yours.
 - Edit index.md file in about folder.
